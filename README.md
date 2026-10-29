@@ -3,6 +3,10 @@
 Questo progetto dimostra **EcoScan**, uno **Strumento di Datamining ESG (Environmental, Social, Governance) potenziato dall'IA**.
 Utilizza **Google Gemini 3.0 Flash Preview** (tramite SDK nativo `google-genai`) per estrarre metriche chiave di sostenibilità dai report aziendali (PDF) e visualizzarle in una dashboard interattiva.
 
+## Team
+
+Progetto di gruppo per il corso di Data Mining e Text Analytics (Università IULM, A.A. 2025–2026), sviluppato da Christian Centi, Edoardo Marchesi e Niccolò Asti. Questo è un fork del [repository originale](https://github.com/christiancenti/esg-datamining), rilasciato con licenza MIT.
+
 ## Panoramica
 
 L'applicazione analizza i documenti caricati per estrarre 6 KPI standardizzati:
@@ -28,8 +32,8 @@ Inoltre, fornisce un'analisi qualitativa avanzata includendo:
 
 1.  **Clona il repository:**
     ```bash
-    git clone https://github.com/Three-Pillars-Analytics/ecoscan.git
-    cd ecoscan
+    git clone https://github.com/Mark-Os01/esg-datamining.git
+    cd esg-datamining
     ```
 
 2.  **Crea e attiva un ambiente virtuale:**
