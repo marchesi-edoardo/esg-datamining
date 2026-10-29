@@ -5,7 +5,7 @@ Utilizza **Google Gemini 3.0 Flash Preview** (tramite SDK nativo `google-genai`)
 
 ## Team
 
-Progetto di gruppo per il corso di Data Mining e Text Analytics (Università IULM, A.A. 2025–2026), sviluppato da Christian Centi, Edoardo Marchesi e Niccolò Asti. Questo è un fork del [repository originale](https://github.com/christiancenti/esg-datamining), rilasciato con licenza MIT.
+Progetto di gruppo per il corso di Data Mining e Text Analytics (Università IULM, A.A. 2025–2026), sviluppato dal gruppo **Three Pillars Analytics** (Christian Centi, Edoardo Marchesi, Niccolò Asti). Questo è un fork del [repository originale](https://github.com/christiancenti/esg-datamining), rilasciato con licenza MIT.
 
 ## Panoramica
 
