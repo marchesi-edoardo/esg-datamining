@@ -32,7 +32,7 @@ Inoltre, fornisce un'analisi qualitativa avanzata includendo:
 
 1.  **Clona il repository:**
     ```bash
-    git clone https://github.com/Mark-Os01/esg-datamining.git
+    git clone https://github.com/marchesi-edoardo/esg-datamining.git
     cd esg-datamining
     ```
 
